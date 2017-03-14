@@ -44,7 +44,7 @@ GitHub supports emoji!
 
 ![](2017-03-14-21-19-35.png)
 ![](2017-03-14-21-21-41.png)
-![wiod](image/xxxx.jpg)
+![wiod](https://github.com/jamespakorn/hdc-sql/blob/master/images/xxxx.jpg)
 
 
 
