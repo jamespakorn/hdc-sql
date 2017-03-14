@@ -36,7 +36,7 @@ Content in the first column | Content in the second column
 
 [GitHub](http://github.com)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/m.jpg)
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
