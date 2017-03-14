@@ -1,92 +1,50 @@
 # hdc-sql
 basic sql hdc 43 แฟ้ม  
->ทดสอบ
-# ทดสอบหน้า 2
+# ทดสอบ
+>testกินข้าวกันนะ  
+*This text will be italic*
+_This will also be italic_
 
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
+**This text will be bold**
+__This will also be bold__
 
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
+_You **can** combine them_
 
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
+As Kanye West said:
 
+> We're living the future so
+> the present is our past.
 
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
+I think you should use an
+`<addr>` element here instead.
 
+```sql
+select * from person
+```
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
+[GitHub](http://github.com)
 
+![GitHub Logo](/images/logo.png)
 
-# ทดสอบหน้า 3
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
 
-การทำงาน has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
-
-
-
-# ทดสอบหน้า 4
-
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
-
-
-# ทดสอบหน้า 5
-
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
-
-
-# ทดสอบหน้า 6
-
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
-
-
-# ทดสอบหน้า 7
-
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
-.
-
-# ทดสอบหน้า 8
-
-Markdown has two types of links: inline and reference. For both types of links, the text you want to display to the user is placed in square brackets. For example, if you want your link to display the text “GitHub”, you write [GitHub].
-
-To create an inline link, create a set of parentheses immediately after the brackets and write your URL within the parentheses. (e.g., [GitHub](https://github.com/)). Relative paths are allowed in inline links.
-
-To create a reference link, use two sets of square brackets. [[my internal link|internal-ref]] will link to the internal reference internal-ref.
-
-
-To create inline spans of code, simply wrap the code in backticks (`). Markdown will turn `myFunction` into myFunction.
+![](2017-03-14-21-19-35.png)
+![](2017-03-14-21-21-41.png)
+![wiod](image/xxxx.jpg)
 
 
 
