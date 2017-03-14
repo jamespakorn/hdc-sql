@@ -1,5 +1,8 @@
 # hdc-sql
 basic sql hdc 43 แฟ้ม  
+
+# hdc-sql
+basic sql hdc 43 แฟ้ม  
 # ทดสอบ
 >testกินข้าวกันนะ  
 *This text will be italic*
@@ -14,6 +17,8 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+<div style="page-break-after: always;"></div>
 
 I think you should use an
 `<addr>` element here instead.
@@ -45,6 +50,7 @@ GitHub supports emoji!
 ![](2017-03-14-21-19-35.png)
 ![](2017-03-14-21-21-41.png)
 ![wiod](/images/xxxx.jpg)
+
 
 
 
