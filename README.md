@@ -5,7 +5,7 @@ basic sql hdc 43 แฟ้ม
 basic sql hdc 43 แฟ้ม  
 https://github.com/jamespakorn/hdc-sql/blob/master/hdc%20flow.png
 
-![hdc_flow](/hdc%20flow.png.jpg)
+![hdc_flow](/hdc%20flow.png)
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
